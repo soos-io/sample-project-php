@@ -1,0 +1,18 @@
+{
+    "name": "soos/sample-project",
+    "description": "SOOS ( https://soos.io ) is an independent software security company, located in Winooski, VT USA, building security software for your team. Used for testing purposes, this package is an example of a vulnerable package on a public registry.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Soos\\SampleProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SOOS",
+            "email": "integrations@soos.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
